@@ -1,7 +1,6 @@
 **需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
 **需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
 
-#电影购票系统 #java web #java #毕业设计 #课程设计 #mybatis #SSM  #jsp #mysql #源代码
 
 ## 基于ssm的电影购票系统(源代码+数据库)
 
