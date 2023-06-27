@@ -1,10 +1,10 @@
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
 
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+**接毕业设计和论文**
 
 **博客地址：[https://blog.csdn.net/2303_76227485/article/details/128707081](https://blog.csdn.net/2303_76227485/article/details/128707081)**
 
-**视频演示：[https://space.bilibili.com/384537280](https://space.bilibili.com/384537280)**
+**视频演示：[https://www.bilibili.com/video/BV1cg4y1N7Az/](https://www.bilibili.com/video/BV1cg4y1N7Az/)**
 
 **毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
@@ -117,8 +117,9 @@
 - tomcat 需要设置端口：8081 可在Api.js中修改相关配置
 - 在tomcat配置文件添加 URIEncoding="utf-8" 以支持中文链接，否则演员图片和剧照无法正常显示
 
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
+**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+
+**接毕业设计和论文**
 
 
 
